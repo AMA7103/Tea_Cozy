@@ -9,3 +9,24 @@ body {
   opacity: 0.9;
   text-align: horizontal;
 }
+h1 {
+  margin-left: 10px;
+  font-size: 50px;
+  font-family: Snell Roundhand;
+  margin: auto 0;
+}
+.header {
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  display: flex;
+
+}
+.navigation {
+  display: inline-flex;
+  justify-content: flex-end;
+  width: 84%;
+  margin: auto 0;
+}
+span {
+  text-decoration: underline;
+}
